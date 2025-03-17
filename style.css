@@ -48,7 +48,7 @@ header a{
     transition: .2s;
 }
 header a:hover{
-    color: #ffffff;
+    color: #fff;
     transform: scale(1.05);
 }
 
@@ -88,7 +88,7 @@ section.topo-do-site .flex{
 }
 
 .topo-do-site .txt-topo-site p{
-    color: #fff;
+    color: #c1eff5;
     margin: 40px 0;
 }
 
