@@ -1,0 +1,1 @@
+Olá! Seja bem-vindo ao meu site, onde você encontrará o meu portfólio profissional. Aqui, compartilho meus projetos, experiências e habilidades, mostrando um pouco do meu trabalho e da minha trajetória. Sinta-se à vontade para explorar e conhecer mais sobre o que faço! 🚀
