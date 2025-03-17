@@ -9,3 +9,18 @@ body{
     background: #000;
     height: 100vh;
 }
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+/*estilo do cabecalho*/
+header{
+    padding: 40px 4%;
+}
+
+header > .interface{
+    display: flex;
+    justify-content: space-between;
+}
